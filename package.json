@@ -1,0 +1,25 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilemandal/graphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nilemandal/graphQL/issues"
+  },
+  "homepage": "https://github.com/nilemandal/graphQL#readme",
+  "dependencies": {
+    "@apollo/server": "^4.12.2",
+    "graphql": "^16.11.0"
+  }
+}
