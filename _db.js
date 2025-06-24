@@ -26,3 +26,9 @@ let authors = [
     { id: 3, name: "Alice Johnson", verified: true },
     { id: 4, name: "Bob Brown", verified: false }
 ];  
+
+export default {
+    games,
+    reviews,
+    authors
+};

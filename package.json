@@ -20,6 +20,8 @@
   "homepage": "https://github.com/nilemandal/graphQL#readme",
   "dependencies": {
     "@apollo/server": "^4.12.2",
-    "graphql": "^16.11.0"
+    "g": "^2.0.1",
+    "graphql": "^16.11.0",
+    "nodemon": "^3.1.10"
   }
 }
